@@ -50,25 +50,12 @@
 ![Camunda](https://img.shields.io/badge/Camunda-FF0000?style=flat&logo=camunda&logoColor=white)  
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-0076D6?style=flat&logo=mulesoft&logoColor=white)  
 
-### 🗄️ **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=postgresql&logoColor=white)  
-
 ### ☁ **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-
-### 🛠 **Tools & IDEs**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
-![STS](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=flat&logo=spring&logoColor=white)  
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)  
-![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)  
 
 ---
 
@@ -82,6 +69,15 @@
 | 🏆 **HackerRank** | [Link](https://www.hackerrank.com/profile/kallagoutham33) |
 | 🎯 **InterviewBit** | [Link](https://www.interviewbit.com/profile/kallagoutham33/) |
 | 🐳 **DockerHub** | [Link](https://hub.docker.com/u/kallagoutham) |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kallagoutham&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallagoutham&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallagoutham&layout=compact&theme=dark" height="180"/>
+</p>
 
 ---
 
