@@ -82,7 +82,7 @@
 ---
 
 ## 📬 Get in Touch
-📧 **Email:** kallagoutham33@gmail.com
+📧 **Email:** kallagoutham33@gmail.com        
 🌍 **Portfolio:** [gouthamkalla.netlify.app](https://gouthamkalla.netlify.app/)  
 💼 **LinkedIn:** [linkedin.com/in/goutham-kalla-3b6133112](https://www.linkedin.com/in/goutham-kalla-3b6133112/)  
 🚀 **GitHub:** [github.com/kallagoutham](https://github.com/kallagoutham/)  
