@@ -20,12 +20,12 @@
 ---
 
 ## 🚀 About Me  
-🎓 **Master's in Computer Science** @ **Stony Brook University** *(2024 - Present)*  
+🎓 **Master's in Computer Science** @ **Stony Brook University** *(2024 - 2026)*  
 💻 Passionate about **AI, Distributed Systems, Blockchain, and Quantum Computing**  
 💻 **Software Engineer @ Allocore** (STG Capital Group)                    
 🏆 Former **Senior Associate Application Developer @ AT&T** and **SDE @ Ennea Solutions**   
 💡 **Problem-Solver | System Architect | Machine Learning Innovator**    
-🌱 **Currently Learning:** Quantum Computing, Large-Scale ML Systems & Kubernetes  
+🌱 **Currently Learning:** Quantum Computing, Large-Scale ML Systems  
 
 ---
 
