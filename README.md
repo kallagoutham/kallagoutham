@@ -82,6 +82,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kallagoutham/kallagoutham/snake-output/snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
 ## 📬 Get in Touch
 📧 **Email:** kallagoutham33@gmail.com        
 🌍 **Portfolio:** [gouthamkalla.netlify.app](https://gouthamkalla.netlify.app/)  
