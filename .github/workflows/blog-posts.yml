@@ -27,7 +27,9 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@kallagoutham33"
           max_post_count: 5
-          template: "- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub>$newline"
+          # Leading $newline (not trailing) so the first post is not glued to the
+          # START marker comment, which would leave it as unparsed raw markdown.
+          template: "$newline- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub>"
           date_format: "mmm d, yyyy"
           commit_message: "chore: sync latest Medium posts"
           comment_tag_name: "BLOG-POST-LIST"
