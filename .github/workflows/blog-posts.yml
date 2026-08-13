@@ -1,0 +1,33 @@
+# Pulls the latest Medium posts into the README between the
+# <!-- BLOG-POST-LIST:START --> / <!-- BLOG-POST-LIST:END --> markers.
+name: Sync Medium posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: blog-posts
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from Medium
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@kallagoutham33"
+          max_post_count: 5
+          template: "- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: sync latest Medium posts"
+          comment_tag_name: "BLOG-POST-LIST"

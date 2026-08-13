@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-label="GitHub metrics generating">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C9EF0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2C9EF0" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2C9EF0" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="2.4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="180" rx="14" fill="url(#bg)"/>
+  <rect width="960" height="180" rx="14" fill="url(#sweep)"/>
+  <rect x="0.75" y="0.75" width="958.5" height="178.5" rx="13.25" fill="none" stroke="#2C9EF0" stroke-opacity="0.35"/>
+
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
+    <text x="40" y="62" fill="#ffffff" font-size="21" font-weight="700">Full contribution profile — public + private</text>
+    <text x="40" y="96" fill="#9fc9e8" font-size="14">Rendered nightly by .github/workflows/metrics.yml</text>
+    <text x="40" y="122" fill="#7fb3d5" font-size="13">Add a METRICS_TOKEN repository secret (scopes: repo, read:user, read:org) to include private activity.</text>
+    <text x="40" y="148" fill="#5f93b5" font-size="12">Or run the workflow manually: Actions → “Generate GitHub metrics” → Run workflow</text>
+  </g>
+
+  <g transform="translate(880 90)">
+    <circle r="20" fill="none" stroke="#2C9EF0" stroke-opacity="0.25" stroke-width="4"/>
+    <circle r="20" fill="none" stroke="#2C9EF0" stroke-width="4" stroke-linecap="round" stroke-dasharray="30 96">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
