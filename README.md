@@ -260,7 +260,11 @@ solved:    690+ DSA solutions committed across LeetCode, GFG, InterviewBit
 
 > Auto-synced from [medium.com/@kallagoutham33](https://medium.com/@kallagoutham33)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Why Doesn’t macOS Finder Have a “New File” Option? Here’s How I Fixed It For Myself.](https://medium.com/@kallagoutham33/why-doesnt-macos-finder-have-a-new-file-option-here-s-how-i-fixed-it-for-myself-6b979fff54ab?source=rss-3d72e13fefb5------2) &nbsp;·&nbsp; <sub>Jul 28, 2026</sub>
+- [Behind zone1, zone2, and zone5: How Enterprise SaaS Tenants Work](https://medium.com/@kallagoutham33/behind-zone1-zone2-and-zone5-how-enterprise-saas-tenants-work-d690c59bb5bf?source=rss-3d72e13fefb5------2) &nbsp;·&nbsp; <sub>Jul 1, 2026</sub>
+- [One App, Many Customers: The Multi-Tenancy Model](https://medium.com/@kallagoutham33/one-app-many-customers-the-multi-tenancy-model-be76aa965afc?source=rss-3d72e13fefb5------2) &nbsp;·&nbsp; <sub>Jun 23, 2026</sub>
+- [What Happens After an Event Occurs?](https://medium.com/@kallagoutham33/what-happens-after-an-event-occurs-10faea21966f?source=rss-3d72e13fefb5------2) &nbsp;·&nbsp; <sub>Jun 22, 2026</sub>
+- [Why Scaling Backend Systems Is Harder Than You Think](https://medium.com/@kallagoutham33/why-scaling-backend-systems-is-harder-than-you-think-e25d42660245?source=rss-3d72e13fefb5------2) &nbsp;·&nbsp; <sub>Apr 18, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
